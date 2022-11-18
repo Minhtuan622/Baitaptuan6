@@ -1,0 +1,12 @@
+body{
+  background-image: url("https://ds112.github.io/answerWeb/image/hinh5/nen-hoa-hong.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: auto 100%;
+}
+marquee{
+  font-size: 90px;
+  color:#ffffff;
+  text-shadow: rgb(243, 0, 231) 5px 0px 15px;
+}
